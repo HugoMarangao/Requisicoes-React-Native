@@ -1,0 +1,1 @@
+Requisicoes usando rect native 
