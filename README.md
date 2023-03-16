@@ -1,9 +1,9 @@
-# Requisições usando React Native 
-projeto pessoal que traz três apis diferentes em um único app com chamadas diferentes para aprimorar o uso de requisições usando React native 
+# Requests using React Native
+Personal project that brings three different apis in a single app with different calls to improve the use of requests using React native
 
 # 📔 Requisitos:
-Para se criar esse projeto será necessário a instalação do axios e o react navigation
-para se poder usar as 3 apis esse app funciona tanto no android quanto no mac também é nescessario o androis studio ou o sistema da apple para uso do simulador 
+To create this project it will be necessary to install axios and react navigation
+To be able to use the 3 apis this app works on both android and mac it is also necessary the androis studio or the apple system to use the simulator
  # 📖 Documentação:
  - biblioteca e uso do axios: https://blog.logrocket.com/using-axios-react-native-manage-api-requests/
  - biblioteca do React Navigation: https://reactnavigation.org
